@@ -6,9 +6,7 @@ React is an open-source JavaScript library developed by Facebook. When using Rea
 
 ## Why Use React?
 
-
 - Efficient state management.
-- Server-Side Rendering (SSR): HTML code is generated on the server, reducing page loading time and improving SEO.
 - Similar to React Native with minor differences, enabling mobile app development.
 - React uses a virtual DOM, an interface that represents the structure of a document.
 
@@ -39,6 +37,11 @@ Once launched, open your browser and go to the following URL:
 http://localhost:3000 
 
 The React project is created.
+
+
+
+## What is a component :
+Components are standalone and reusable elements that enable structuring a user interface (UI) into modular and independent pieces.
 
 ## Roles of Components: 
 
